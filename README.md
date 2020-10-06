@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - LinkedIn: https://www.linkedin.com/in/ashish-kumar-5948b4a8/
 - Kaggle: https://www.kaggle.com/ashishcode
 
-Note: Please do not spam on the above mentioned profiles.
+**Note:** Please do not spam on the above mentioned profiles.
