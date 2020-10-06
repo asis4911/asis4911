@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 🎯 Goal (2020): Contribute openly to Data Science and Machine Learning community..
 - ⚡ I have my 7 android app live on google play.
 
+### Connect me On
+
+LinkedIn: https://www.linkedin.com/in/ashish-kumar-5948b4a8/
+Kaggle: https://www.kaggle.com/ashishcode
+
