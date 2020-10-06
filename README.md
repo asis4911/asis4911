@@ -1,7 +1,7 @@
 ### Hi there I'm Ashish!! 👋
 
 <!--
-**asis4911/asis4911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**asis4911/asis4911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
 - 🎯 Goal (2020): Contribute openly to Data Science and Machine Learning community..
 - ⚡ I have my 7 android app live on google play.
--->
+
