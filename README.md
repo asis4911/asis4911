@@ -4,7 +4,7 @@
 **asis4911/asis4911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I'm currently working in Tata Consultancy Services.
+- 🔭 I'm currently working in Infosys as a Data Scientist.
 - 🌱 I'm currently enhancing my knowledge from Udemy, Coursera and Kaggle.
 - 💻 I'm looking for a Job in Machine Learning domain.
 - 🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
